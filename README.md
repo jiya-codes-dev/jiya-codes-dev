@@ -1,36 +1,33 @@
-## Hi there 👋
+# Hi, I’m Jiya 👋
 
-<!--
-**jiya-codes-dev/jiya-codes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud, Data & AI | Building automation, SQL & ML tools**
 
-#I'm Jiya 💗
+I work at the intersection of data, cloud, and operations focusing on practical automation and AI-driven solutions that scale in real environments.
 
-**Cloud, Data & AI | Building automation, SQL and ML tools**
-
-- 🧠 Data Scientist • Cloud & Database Engineer
-- ☁️ Working with Azure, AWS, SQL Server, Azure SQL & Synapse
-- 🤖 I love building bots, automation scripts and AI helpers for real-world ops
-- 🚀 Hackathons, production-focused solutions and continuous improvement
+- 🧠 Data Scientist | Cloud & Database Engineer  
+- ☁️ Hands-on with with Azure, AWS, SQL Server, Azure SQL & Synapse  
+- 🤖 Building bots, automation scripts and AI helpers for real-world operations  
+- 🚀 Hackathons, production ready solutions and continuous improvement  
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages:** Java, Python, SQL, PowerShell
-- **Data & DB:** Azure SQL, SQL Server, Synapse, Azure Data Factory
-- **Cloud:** Azure, AWS, GCP, Oracle
-- **AI / ML:** Azure ML, scikit-learn, basic NLP & RAG
-- **Tools & Platforms:** GitHub, Docker, ServiceNow (for integrations)
+- **Languages:** Java, Python, SQL, PowerShell  
+- **Data & Databases:** MSSQL, Azure SQL, SQL Server, Synapse, Azure Data Factory  
+- **Cloud Platforms:** Azure, AWS, GCP, Oracle  
+- **AI / ML:** Azure ML, Generative AI, NLP, RAG  
+- **Tools & Platforms:** GitHub, Rubrik, ServiceNow  
 
 ---
 
-### 🔍 What I build
+### 🔍 What I Build
 
-- Automation for DB and infrastructure tasks  
-- SQL admin, monitoring and reporting tools  
-- Data pipelines for analytics and ML  
+- Automation for database and infrastructure operations    
+- SQL administration, monitoring and reporting tools  
+- Data pipelines for analytics and machine learning  
 - Chatbots and assistants to reduce manual operations  
 
 ---
 
-📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/sharmajiya/)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sharmajiya/)
